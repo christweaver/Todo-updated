@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "loops.js",
+  "scripts": {
+    "devStart": "nodemon loops.js"
+   
+  },
+  "author": "christy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
